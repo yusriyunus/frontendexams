@@ -1,0 +1,182 @@
+{
+  "users": [
+    {
+      "email": "yusriyunus97.yy@gmail.com",
+      "username": "yunus",
+      "password": "qwerty",
+      "movie": "Mile 22",
+      "studio": "studio2",
+      "jadwal": "9AM",
+      "seat": [],
+      "id": 1
+    }
+  ],
+  "movielist": [
+    {
+      "id": 1,
+      "title": "Big Brother (Taai si hing)",
+      "studio": "studio1",
+      "description": "Best Movies",
+      "image": "https://www.showcasecinemas.com/sites/default/files/field/image/275213h1_2.jpg",
+      "jadwalBookedIndex": []
+    },
+    {
+      "id": 2,
+      "title": "Mile 22",
+      "studio": "studio2",
+      "description": "Best Movies",
+      "image": "https://www.showcasecinemas.com/sites/default/files/field/image/219033h1.jpg",
+      "jadwalBookedIndex": []
+    },
+    {
+      "id": 3,
+      "title": "Slender Man",
+      "studio": "studio 3",
+      "description": "Best Movies",
+      "image": "https://www.showcasecinemas.com/sites/default/files/field/image/243963h1.jpg",
+      "jadwalBookedIndex": []
+    }
+  ],
+  "jadwal": [
+    {
+      "id": 1,
+      "title": "Shift1",
+      "jamTayang": "9AM",
+      "seatBookedIndex": []
+    },
+    {
+      "id": 2,
+      "title": "Shift2",
+      "jamTayang": "9PM",
+      "seatBookedIndex": []
+    }
+  ],
+  "seats": [
+    {
+      "id": 1,
+      "title": "1A",
+      "disabled": false,
+      "checked": false
+    },
+    {
+      "id": 2,
+      "title": "2A",
+      "disabled": false,
+      "checked": false
+    },
+    {
+      "id": 3,
+      "title": "3A",
+      "disabled": false,
+      "checked": false
+    },
+    {
+      "id": 4,
+      "title": "4A",
+      "disabled": false,
+      "checked": false
+    },
+    {
+      "id": 5,
+      "title": "5A",
+      "disabled": false,
+      "checked": false
+    },
+    {
+      "id": 6,
+      "title": "6A",
+      "disabled": false,
+      "checked": false
+    },
+    {
+      "id": 7,
+      "title": "7A",
+      "disabled": false,
+      "checked": false
+    },
+    {
+      "id": 8,
+      "title": "8A",
+      "disabled": false,
+      "checked": false
+    },
+    {
+      "id": 9,
+      "title": "9A",
+      "disabled": false,
+      "checked": false
+    },
+    {
+      "id": 10,
+      "title": "10A",
+      "disabled": false,
+      "checked": false
+    },
+    {
+      "id": 11,
+      "title": "",
+      "disabled": false,
+      "checked": false
+    },
+    {
+      "id": 12,
+      "title": "1B",
+      "disabled": false,
+      "checked": false
+    },
+    {
+      "id": 13,
+      "title": "2B",
+      "disabled": false,
+      "checked": false
+    },
+    {
+      "id": 14,
+      "title": "3B",
+      "disabled": false,
+      "checked": false
+    },
+    {
+      "id": 15,
+      "title": "4B",
+      "disabled": false,
+      "checked": false
+    },
+    {
+      "id": 16,
+      "title": "5B",
+      "disabled": false,
+      "checked": false
+    },
+    {
+      "id": 17,
+      "title": "6B",
+      "disabled": false,
+      "checked": false
+    },
+    {
+      "id": 18,
+      "title": "7B",
+      "disabled": false,
+      "checked": false
+    },
+    {
+      "id": 19,
+      "title": "8B",
+      "disabled": false,
+      "checked": false
+    },
+    {
+      "id": 20,
+      "title": "9B",
+      "disabled": false,
+      "checked": false
+    },
+    {
+      "id": 21,
+      "title": "10B",
+      "disabled": false,
+      "checked": false
+    }
+  ]
+}
